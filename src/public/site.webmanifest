@@ -1,0 +1,27 @@
+{
+  "name": "Hands on Bands - Mobile Therapy for Musicians",
+  "short_name": "Hands on Bands",
+  "description": "Professional mobile chiropractic, physical therapy, and massage services for touring musicians across the UK & Ireland",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "medical", "lifestyle"],
+  "lang": "en-GB",
+  "dir": "ltr"
+}
